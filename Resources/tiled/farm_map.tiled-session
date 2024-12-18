@@ -1,0 +1,293 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/tiled/farm_map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#spring": {
+            "dynamicWrapping": false
+        },
+        "#spring_outdoorsTileSheet.pt-BR - 副本(1)": {
+            "dynamicWrapping": false
+        },
+        "#tree": {
+            "dynamicWrapping": true
+        },
+        "C:/Users/14355/Desktop/farm_map(1).tmx": {
+            "scale": 0.6828124999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 492.8146453089245,
+                "y": 384.4393592677346
+            }
+        },
+        "C:/Users/14355/Desktop/farm_map(1).tmx#hoeDirt": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/farm_map(1).tmx#spring": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/farm_map(1).tmx#springobjects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/farm_map(1).tmx#tree": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/farm_map.tmx": {
+            "scale": 0.8683593749999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 511.88484030589296,
+                "y": 384.05757984705355
+            }
+        },
+        "C:/Users/14355/Desktop/farm_map.tmx#hoeDirt": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/farm_map.tmx#spring": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/farm_map.tmx#springobjects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/farm_map.tmx#tree": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/farm_map5.tmx": {
+            "scale": 0.8683593749999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 511.88484030589296,
+                "y": 383.4817813765182
+            }
+        },
+        "C:/Users/14355/Desktop/farm_map5.tmx#hoeDirt": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/farm_map5.tmx#spring": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/farm_map5.tmx#springobjects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/farm_map5.tmx#tree": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/未命名.tmx": {
+            "scale": 0.6840494791666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 277.0267440753783,
+                "y": 384.4751118302084
+            }
+        },
+        "C:/Users/14355/Desktop/未命名.tmx#Golden Chicken": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/未命名.tmx#crops": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/未命名.tmx#spring_outdoorsTileSheet.pt-BR": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/测试简图.tmx": {
+            "scale": 1.7367187499999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 356.1313540260909,
+                "y": 191.45299145299143
+            }
+        },
+        "C:/Users/14355/Desktop/测试简图.tmx#spring_outdoorsTileSheet.pt-BR": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Desktop/测试简图.tmx#tree": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map(1).tmx": {
+            "scale": 0.6828124999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 492.81464530892447,
+                "y": 384.43935926773463
+            }
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map(1).tmx#hoeDirt": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map(1).tmx#spring": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map(1).tmx#springobjects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map(1).tmx#tree": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map(2).tmx": {
+            "scale": 0.6828124999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 492.81464530892447,
+                "y": 164.02745995423342
+            }
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map(2).tmx#hoeDirt": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map(2).tmx#spring": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map(2).tmx#springobjects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map(2).tmx#tree": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map.tmx": {
+            "scale": 0.6828124999999999,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 694.9199084668194,
+                "y": 384.43935926773463
+            }
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map.tmx#Bcrop": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map.tmx#hoeDirt": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map.tmx#spring": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map.tmx#springobjects": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map.tmx#tree": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/tiled/farm_map.tmx": {
+            "scale": 0.6828124999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 511.85354691075526,
+                "y": 489.8855835240274
+            }
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/tiled/farm_map.tmx#hoeDirt": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/tiled/farm_map.tmx#spring": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/tiled/farm_map.tmx#springobjects": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/tiled/farm_map.tmx#tree": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/测试简图.tmx": {
+            "scale": 1.3656249999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 255.92677345537763,
+                "y": 81.6475972540046
+            }
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/测试简图.tmx#spring_outdoorsTileSheet.pt-BR": {
+            "scaleInDock": 1
+        },
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/测试简图.tmx#tree": {
+            "scaleInDock": 1
+        },
+        "farm_map.tmx": {
+            "scale": 0.8683593749999999,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 511.88484030589296,
+                "y": 401.3315339631129
+            }
+        },
+        "farm_map.tmx#hoeDirt": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "farm_map.tmx#spring": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "farm_map.tmx#spring_outdoorsTileSheet.pt-BR - 副本(1)": {
+            "scaleInDock": 1
+        },
+        "farm_map.tmx#springobjects": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "farm_map.tmx#tree": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "测试简图.tmx": {
+            "scale": 1.3656249999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 255.92677345537763,
+                "y": 249.3363844393593
+            }
+        },
+        "测试简图.tmx#spring_outdoorsTileSheet.pt-BR": {
+            "scaleInDock": 1
+        },
+        "测试简图.tmx#tree": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/14355/Desktop",
+    "last.imagePath": "C:/Users/14355/Desktop",
+    "map.height": 24,
+    "map.lastUsedExportFilter": "全部文件 (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 32,
+    "openFiles": [
+        "farm_map.tmx",
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/tiled/farm_map.tmx"
+    ],
+    "project": "farm_map.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "farm_map.tmx",
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/tiled/farm_map.tmx",
+        "C:/Users/14355/Desktop/测试简图.tmx",
+        "C:/Users/14355/Desktop/未命名.tmx",
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map(2).tmx",
+        "C:/Users/14355/Desktop/farm_map.tmx",
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map(1).tmx",
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/测试简图.tmx",
+        "C:/Users/14355/Documents/WeChat Files/wxid_x6fk4tvxve7s22/FileStorage/File/2024-12/farm_map.tmx",
+        "C:/Users/14355/Desktop/farm_map(1).tmx",
+        "C:/Users/14355/Desktop/farm_map5.tmx",
+        "测试简图.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.type": 0
+}

@@ -1,0 +1,6 @@
+resources内包含筛选过的png格式的图片素材，其中Characters中的Dialogue、schedule为空、Data、Effects、Fonts、minigames、Strings、XACT为空
+其中Portrait是npc对话时的头像
+LooseSprites是一些小玩意（物品）、大地图、logo和物品栏的贴图
+TerrainFeatures是树、地、草的贴图
+TileSheets是极其多的物品（种子、工具、武器）、家具、作物、资源、工作台等的贴图，找不到贴图的时候多看看这里
+VolcanoLayouts里是一张奇怪的阴间色调的图标集合
